@@ -1,3 +1,6 @@
 *.txt
 *.zip
 *.csv
+*_v*
+*.gz
+l2r
